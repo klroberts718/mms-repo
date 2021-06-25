@@ -4,6 +4,7 @@ FROM rocker/binder:4.1.0
 ## Declares build arguments
 ARG NB_USER
 ARG NB_UID
+ARG R_VERSION=4.1.0
 
 ## Copies your repo files into the Docker Container
 USER root
