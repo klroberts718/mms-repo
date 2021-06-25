@@ -1,4 +1,4 @@
-##Welcome SciGirls!!!
+#Welcome SciGirls!!!
 
 Please click the icon below to load our workspace: 
 
