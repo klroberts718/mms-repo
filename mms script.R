@@ -1,13 +1,9 @@
 ##some first steps, just to get the computer ready to do my math##
 library(tidyverse)
-library(googlesheets4)
-
-
 
 
 ##import CSV file with our data##
-mms <- read_sheet("https://docs.google.com/spreadsheets/d/1X3YslM3HOHRxeceaw_z57NQLxFn_XBb5QXdDNClXPIY/edit?usp=sharing")
-
+mms <- read.csv("mmset1.csv")
 
 
 ##Let's look at our distributions##
